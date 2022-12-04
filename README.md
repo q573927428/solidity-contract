@@ -26,4 +26,7 @@ https://github.com/denghaoming/solidity-contract-with-chinese-comment/blob/maste
 1. 买卖10%滑点，3%销毁，3%回流筑池（1.5%币、1.5%U），3%LP分红 DAPP实现，1%基金会（U到账）<br>
 https://github.com/denghaoming/solidity-contract-with-chinese-comment/blob/master/ERC20/AddUsdtLP.sol<br>
 
-### 区块链 Solidity 智能合约交流QQ群：103682866
+### 5. SUCKC，回流USDT池子
+#### USDT 回流加池子，加 LP 分红 本币
+1. 买卖2%滑点，1%回流筑池（1.5%币、1.5%U），1%LP分红本币<br>
+https://github.com/q573927428/solidity-contract/blob/master/ERC20/SUCKC.sol<br>
